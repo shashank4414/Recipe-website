@@ -1,0 +1,146 @@
+#f7f7f7	Light Gray, used for body background and other elements
+#1f1f1f	Dark Gray, used for footer background and nav-menu hover color
+#e1e1e1	Light Gray, used for nav-menu background
+#fff	White, used for selected background
+#424141	Dark Gray, used for selected link border-bottom
+#8f8f8f	Gray, used for box-shadow on various elements
+
+Logo
+Source: freelogodesign.org
+
+----------- Content ---------------
+Source: Microsoft Copilot
+Prompt: 1. recipe website name ideas
+        2. generate introduction articles to put in homepage. Do not generate html code
+
+
+---
+
+### **Welcome to Flavorful Finds: Embark on Your Culinary Adventure!**
+
+At Flavorful Finds, we believe that every meal is an opportunity to create something extraordinary. Whether you're a seasoned chef or a home cook looking to expand your repertoire, our mission is to inspire your culinary journey with mouthwatering recipes, expert tips, and a dash of creativity. Join us as we explore the endless possibilities of flavor and technique, and discover the joy of cooking at its finest.
+
+---
+
+### **Discover, Create, Savor: Unleash Your Inner Chef!**
+
+Cooking is more than just a daily chore—it's an art form and an expression of love. At Flavorful Finds, we're dedicated to bringing you the best recipes, cooking techniques, and tips to help you create delicious, memorable meals. From the comfort of your kitchen, explore new ingredients, master classic dishes, and surprise your loved ones with culinary masterpieces. Let us guide you on this flavorful adventure, one recipe at a time.
+
+---
+
+### **Explore a World of Delectable Recipes**
+
+Our extensive collection of recipes caters to all tastes and skill levels, from classic comfort foods to exotic international cuisines. Each recipe is carefully crafted to provide you with step-by-step instructions, ingredient lists, and helpful tips for success. Whether you're craving a cozy soup, a show-stopping dessert, or a quick weeknight dinner, Flavorful Finds has you covered. Dive in and discover a world of flavors that will elevate your cooking game.
+
+---
+
+### **Join Our Community: Share, Learn, Connect**
+
+Become a part of our vibrant community of food enthusiasts. Share your culinary creations, ask for advice, and connect with like-minded individuals who share your passion for all things food. Our community is a welcoming space for everyone, from seasoned pros to kitchen novices, to exchange ideas, tips, and recipes. Together, we'll make every meal an unforgettable experience.
+
+---
+
+### **Start Your Culinary Journey Today!**
+
+At Flavorful Finds, we are more than just a recipe website. We are a community of passionate food lovers dedicated to exploring and celebrating the art of cooking. Whether you're looking for inspiration for your next meal or seeking to refine your cooking skills, we're here to support and inspire you. So, roll up your sleeves, preheat your oven, and get ready to embark on a delicious adventure with us. Happy cooking!
+
+---
+
+----------- Featured Dish ------------
+Prompt: generate recipe for a featured dish
+
+---
+### **Featured Dish: Herb-Crusted Salmon with Lemon Butter Sauce**
+
+#### **Ingredients**:
+
+##### **For the Salmon**:
+- 4 salmon fillets (6 oz each)
+- 2 tablespoons olive oil
+- 2 tablespoons Dijon mustard
+- 1/2 cup panko breadcrumbs
+- 1/4 cup grated Parmesan cheese
+- 2 tablespoons finely chopped fresh parsley
+- 2 tablespoons finely chopped fresh dill
+- Zest of 1 lemon
+- Salt and pepper to taste
+
+##### **For the Lemon Butter Sauce**:
+- 1/4 cup unsalted butter
+- 1 clove garlic, minced
+- Juice of 1 lemon
+- 1/4 cup heavy cream
+- Salt and pepper to taste
+
+#### **Instructions**:
+
+1. **Prepare the Salmon**:
+   - Preheat your oven to 400°F (200°C). Line a baking sheet with parchment paper or lightly grease it.
+   - In a small bowl, mix together the panko breadcrumbs, Parmesan cheese, parsley, dill, and lemon zest. Set aside.
+   - Pat the salmon fillets dry with paper towels. Season each fillet with salt and pepper.
+   - Brush the top of each salmon fillet with a thin layer of Dijon mustard.
+   - Press the breadcrumb mixture onto the mustard-coated side of the salmon fillets, ensuring an even layer.
+
+2. **Bake the Salmon**:
+   - Place the salmon fillets on the prepared baking sheet.
+   - Drizzle olive oil over the breadcrumb crust.
+   - Bake in the preheated oven for 12-15 minutes, or until the salmon is cooked through and the crust is golden brown.
+
+3. **Prepare the Lemon Butter Sauce**:
+   - While the salmon is baking, melt the butter in a small saucepan over medium heat.
+   - Add the minced garlic and sauté for about 1 minute, until fragrant.
+   - Stir in the lemon juice and heavy cream.
+   - Reduce the heat to low and let the sauce simmer for 2-3 minutes, stirring occasionally.
+   - Season with salt and pepper to taste.
+
+4. **Serve**:
+   - Remove the salmon from the oven and let it rest for a minute.
+   - Spoon the lemon butter sauce over the salmon fillets.
+   - Serve the herb-crusted salmon with your choice of side dishes, such as roasted vegetables or a fresh salad.
+
+---
+
+This Herb-Crusted Salmon with Lemon Butter Sauce is sure to impress your guests with its flavorful and elegant presentation. Enjoy your culinary adventure! If you need more recipes or any other assistance, just let me know.
+
+-------- Recipes --------
+Prompt: generate 8 dish names for my recipe page. Use real dishes from allrecipes.com
+
+1. **Marry Me Chicken Soup**
+2. **Cowboy Spaghetti**
+3. **Bang Bang Potatoes**
+4. **Tennessee Onions**
+5. **Hot Cowgirl Dip**
+6. **Slow Cooker Parmesan Garlic Chicken and Potatoes**
+7. **Johnny Marzetti Casserole**
+8. **Million Dollar Chicken**
+
+----- About ----
+Prompt: generate content for about us page of my website. do not generate code
+
+### About Us - Flavorful Finds
+
+Welcome to Flavorful Finds!
+
+At Flavorful Finds, we are passionate about exploring the art and joy of cooking. Our mission is to inspire home cooks and food enthusiasts of all skill levels to create delicious, memorable meals in their own kitchens. Whether you're an experienced chef or just starting your culinary journey, we provide a diverse range of recipes, tips, and resources to help you along the way.
+
+#### Our Story
+Flavorful Finds was born out of a love for all things food. Our team of dedicated foodies, chefs, and recipe developers came together with a shared vision: to create a space where anyone can discover the magic of cooking. We believe that cooking is more than just a daily task—it's an opportunity to express creativity, connect with loved ones, and explore new flavors and cultures.
+
+#### What We Offer
+- **Diverse Recipes**: From classic comfort foods to exotic international dishes, our extensive collection of recipes caters to all tastes and dietary preferences. Each recipe is crafted with care, providing step-by-step instructions, ingredient lists, and helpful tips to ensure your success in the kitchen.
+
+- **Cooking Tips and Techniques**: We aim to make cooking accessible and enjoyable for everyone. Our cooking tips and technique guides are designed to help you develop your culinary skills, whether you're mastering the basics or tackling more advanced techniques.
+
+- **Community Engagement**: At Flavorful Finds, we value the sense of community that food can bring. We encourage our readers to share their culinary creations, exchange ideas, and connect with fellow food enthusiasts. Join our vibrant community and become part of a network that celebrates the joys of cooking.
+
+#### Our Philosophy
+We believe that cooking should be an enjoyable and rewarding experience. That's why we focus on creating recipes and content that inspire confidence and creativity in the kitchen. We understand that life can be busy, so we aim to provide practical and approachable recipes that fit into your lifestyle. 
+
+#### Join Us on This Culinary Adventure
+Thank you for visiting Flavorful Finds. We are excited to share our passion for food with you and hope that you find inspiration, joy, and delicious flavors in every recipe. Whether you're cooking for yourself, your family, or friends, we are here to support and inspire you on your culinary journey. 
+
+Happy cooking!
+
+---
+
+Feel free to adjust or expand upon this content to better suit your website's tone and style. If you need more details or additional sections, just let me know!
